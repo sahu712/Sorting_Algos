@@ -4,7 +4,6 @@ A Sorting Algorithm is used to rearrange a given array or list elements accordin
 Sorting Algorithms :
 
 Selection Sort
-
 Bubble Sort
 Recursive Bubble Sort
 Insertion Sort
