@@ -25,19 +25,19 @@ Sorting Algorithms :
 20. Strand Sort <br/>
 21. Bitonic Sort <br/>
 22. Pancake sorting <br/>
-Binary Insertion Sort <br/>
-BogoSort or Permutation Sort <br/>
-Gnome Sort <br/>
-Sleep Sort – The King of Laziness / Sorting while Sleeping <br/>
-Structure Sorting (By Multiple Rules) in C++ <br/>
-Stooge Sort <br/>
-Tag Sort (To get both sorted and original) <br/>
-Tree Sort <br/>
-Cartesian Tree Sorting <br/>
-Odd-Even Sort / Brick Sort <br/>
-QuickSort on Singly Linked List <br/>
-QuickSort on Doubly Linked List <br/>
-3-Way QuickSort (Dutch National Flag) <br/>
-Merge Sort for Linked Lists <br/>
-Merge Sort for Doubly Linked List <br/>
-3-way Merge Sort <br/>
+23. Binary Insertion Sort <br/>
+24. BogoSort or Permutation Sort <br/>
+25. Gnome Sort <br/>
+26. Sleep Sort – The King of Laziness / Sorting while Sleeping <br/>
+27. Structure Sorting (By Multiple Rules) in C++ <br/>
+28. Stooge Sort <br/>
+29. Tag Sort (To get both sorted and original) <br/>
+30. Tree Sort <br/>
+31. Cartesian Tree Sorting <br/>
+32. Odd-Even Sort / Brick Sort <br/>
+33. QuickSort on Singly Linked List <br/>
+34. QuickSort on Doubly Linked List <br/>
+35. 3-Way QuickSort (Dutch National Flag) <br/>
+36. Merge Sort for Linked Lists <br/>
+37. Merge Sort for Doubly Linked List <br/>
+38. 3-way Merge Sort <br/>
