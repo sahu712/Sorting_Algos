@@ -3,10 +3,10 @@ A Sorting Algorithm is used to rearrange a given array or list elements accordin
 
 Sorting Algorithms :
 
-Selection Sort
-Bubble Sort
-Recursive Bubble Sort
-Insertion Sort
+Selection Sort <br/>
+Bubble Sort <br/>
+Recursive Bubble Sort <br/>
+Insertion Sort <br/>
 Recursive Insertion Sort
 Merge Sort
 Iterative Merge Sort
